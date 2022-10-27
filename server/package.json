@@ -22,7 +22,6 @@
     "dotenv": "^16.0.3",
     "express": "^4.17.3",
     "morgan": "^1.10.0",
-    "nasa-project": "file:..",
     "pm2": "^5.2.0"
   },
   "devDependencies": {
